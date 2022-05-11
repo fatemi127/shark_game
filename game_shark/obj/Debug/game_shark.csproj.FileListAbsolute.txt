@@ -1,0 +1,9 @@
+C:\Users\Hossein\Desktop\new\game_shark\game_shark\bin\Debug\game_shark.exe.config
+C:\Users\Hossein\Desktop\new\game_shark\game_shark\bin\Debug\game_shark.exe
+C:\Users\Hossein\Desktop\new\game_shark\game_shark\bin\Debug\game_shark.pdb
+C:\Users\Hossein\Desktop\new\game_shark\game_shark\obj\Debug\game_shark.csprojResolveAssemblyReference.cache
+C:\Users\Hossein\Desktop\new\game_shark\game_shark\obj\Debug\game_shark.Form1.resources
+C:\Users\Hossein\Desktop\new\game_shark\game_shark\obj\Debug\game_shark.Properties.Resources.resources
+C:\Users\Hossein\Desktop\new\game_shark\game_shark\obj\Debug\game_shark.csproj.GenerateResource.Cache
+C:\Users\Hossein\Desktop\new\game_shark\game_shark\obj\Debug\game_shark.exe
+C:\Users\Hossein\Desktop\new\game_shark\game_shark\obj\Debug\game_shark.pdb
